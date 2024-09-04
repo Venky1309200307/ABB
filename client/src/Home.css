@@ -1,0 +1,145 @@
+.header{
+    display:flex;
+    width: 100%;
+    height:104px;
+    padding: 16px 128px 0px 128px;
+    gap: 16px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    background: #FFE5F1;
+}
+.divide{
+    display:flex;
+    width: 1,598px;
+    height: 72px;
+    gap: 32px;
+    opacity: 0px;
+}
+.logo img{
+    width:843.96px;
+    gap: 8px;
+    opacity: 0px;
+}
+.div1{
+    display:flex;
+    text-align:center;
+    margin-top:20px;
+    width: 329px;
+    height: 21px;
+    gap: 32px;
+    opacity: 0px;
+    rotate: -0.11 deg;
+}
+.div1 a{
+    font-family: DM Sans;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20.83px;
+    text-align: left;
+}
+.div2{
+    width: 335px;
+    height: 55px;
+    top: 898px;
+    margin-left: 169px;
+    gap: 0px;
+    opacity: 0px;
+}
+.div3{
+    display:flex;
+    width:221px;
+    margin-top:5px;
+    height: 48px;
+    gap: 12px;
+    opacity: 0px;
+
+}
+.b1{
+    width: 72px;
+height: Fixed (48px)px;
+padding: 0px 16px 0px 16px;
+gap: 0px;
+border-radius: 4px 0px 0px 0px;
+opacity: 0px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 20.83px;
+text-align: center;
+color: #1D4ED8;
+background:white;
+border-color: transparent;
+}
+.b2{
+    width: 137px;
+height: Fill (48px)px;
+padding: 11px 24px 11px 24px;
+gap: 0px;
+border-radius: 4px 0px 0px 0px;
+opacity: 0px;
+background: linear-gradient(79.69deg, #1D4ED8 -0.64%, #5AD7FE 107.84%);
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 20.83px;
+text-align: center;
+color: #FFFFFF;
+border-color: transparent;
+}
+.img1{
+    width: 1546.46px;
+    height: 790px;
+    margin-top: 172px;
+    margin-left: 227px;
+    gap: 0px;
+    opacity: 0px;
+}
+.h1{
+    font-family: Manrope;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 54.64px;
+    text-align: left;
+}
+.spa{
+    font-family: Manrope;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 54.64px;
+    text-align: left;
+    color: #235BDB;
+}
+.foot{
+    margin-bottom: 0px;
+    background-color: #09193f;
+    height:300px;
+    margin-left:400px;
+    width:1500px;
+    text-align:center;
+}
+.div4{
+    margin-left:130px;
+    display:flex;
+}
+.div4 img{
+    margin-top:50px;
+}
+.foot span{
+    font-size: 40px;
+    margin-top:50px;
+    color: white;
+}
+.line{
+    width: 80%; 
+  margin: 0 auto; 
+  margin-top:50px;
+  border: 1px solid #f8f8f8;
+}
+.para{
+    margin-top:20px;
+    color:white;
+}
+
+
+
+  

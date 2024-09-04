@@ -1,0 +1,68 @@
+.header {
+    width:1920px;
+    position:absolute;
+    text-align: center;
+    padding: 16px 128px 0px 128px;
+    gap: 16px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+}
+
+.header img{
+    width: 1598px;
+    height: 72px;
+    gap: 32px;
+    opacity: 0px;
+}
+
+.text{
+    width: 1296px;
+    height: 55px;
+    text-align: center;
+    position:absolute;
+    top: 183px;
+    left: 312px;
+    gap: 0px;
+    opacity: 0px;
+
+
+}
+.text .head2{
+    font-family: Manrope;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 54.64px;
+    text-align: left;
+}
+
+.text .spa{
+    font-family: Manrope;
+    color:rgb(38, 0, 255);
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 54.64px;
+    text-align: left;
+}
+.message img{
+    width: 1188.85px;
+    height: 602px;
+    position:absolute;
+    top: 279px;
+    left: 357px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.login-btn{
+    background: linear-gradient(79.69deg, #1D4ED8 -0.64%, #5AD7FE 107.84%);
+    position:absolute;
+    width: 187px;
+    top: 948px;
+    left: 867px;
+    padding: 11px 24px 11px 24px;
+    gap: 0px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    color:white;
+    border-color:transparent;
+}
